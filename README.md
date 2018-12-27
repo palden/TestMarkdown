@@ -36,5 +36,5 @@ Todos:
 
 This is a table
 | Name    | Email     |
-| ------ | ------- |
+| --------- | ---------- |
 | John    | john@john.com |
