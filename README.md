@@ -33,8 +33,3 @@ Todos:
   * 4
 
 `<p>This is an inline code block </p>`
-
-This is a table
-| Name    | Email     |
-| :------ | :-------- |
-| John    | john@john.com |
